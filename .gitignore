@@ -1,0 +1,15 @@
+# Python venv
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Huge SDK files (do not push to GitHub)
+MvImport/
+
+# Temporary images and data
+*.png
+*.jpg
+*.json
+*.npz
+*.mp4
